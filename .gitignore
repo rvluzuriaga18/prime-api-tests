@@ -1,0 +1,10 @@
+*.cache
+*.dll
+*.exe
+*.pdb
+*.suo
+*.log
+bin/
+obj/
+/packages
+/.vs/PrimeAPITest/v16
